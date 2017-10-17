@@ -39,25 +39,34 @@ canonifyURLs = true
     weight = 10
     
 [[menu.main]]
-    name  = "Contact"
-    url   = "/contact/"
+    name  = "Events"
+    url   = "/events/"
     weight = 20
 
+[[menu.main]]
+    name  = "Contact"
+    url   = "/contact/"
+    weight = 30
+
+[[menu.main]]
+    name  = "Student Resources"
+    url   = "/student-resources/"
+    weight = 40
 
    
 [social]
 # Add your social network accounts to the profile section on the left
 # by entering your username. The links to your account will be
 # created automatically.
-    github          = "nikimonikado"
-    flickr          = "nikimonikado"
-    instagram       = "nikimonikado"
-    youtube         = "nikimonikado"
-    vimeo           = "nikimonikado"
-    tumblr          = "nikimonikado"
-    linkedin        = "nikimonikado"
- #   pinterest       = "nikimonikado"
-    googleplus      = "nikimonikado"
+#    github          = "nikimonikado"
+#    flickr          = "nikimonikado"
+#    instagram       = "nikimonikado"
+#    youtube         = "nikimonikado"
+#    vimeo           = "nikimonikado"
+#    tumblr          = "nikimonikado"
+#    linkedin        = "nikimonikado"
+#    pinterest       = "nikimonikado"
+#    googleplus      = "nikimonikado"
     facebook        = "nikimonikado"
     twitter         = "nikimonikado"
 
